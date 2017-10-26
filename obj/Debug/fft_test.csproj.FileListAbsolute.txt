@@ -1,0 +1,17 @@
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\bin\Debug\fft_test.exe.config
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\bin\Debug\fft_test.exe
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\bin\Debug\fft_test.pdb
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\obj\Debug\fft_test.Properties.Resources.resources
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\obj\Debug\fft_test.csproj.GenerateResource.Cache
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\obj\Debug\fft_test.exe
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\obj\Debug\fft_test.pdb
+c:\users\melih\documents\visual studio 2012\Projects\fft_test\fft_test\obj\Debug\fft_test.Form1.resources
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test\fft_test\obj\Debug\fft_test.csprojResolveAssemblyReference.cache
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\bin\Debug\fft_test.exe.config
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\obj\Debug\fft_test.exe
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\obj\Debug\fft_test.pdb
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\obj\Debug\fft_test.Form1.resources
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\obj\Debug\fft_test.Properties.Resources.resources
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\obj\Debug\fft_test.csproj.GenerateResource.Cache
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\bin\Debug\fft_test.exe
+C:\Users\Melih\Documents\Visual Studio 2012\Projects\fft_test_v2\fft_test\bin\Debug\fft_test.pdb
